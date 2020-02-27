@@ -133,9 +133,10 @@ body {
   border-radius: 20%;
   color: white;
   display: inline-block;
-  font-size: 20px;
+  font-size: 25px;
   margin: 5px 5px;
   padding: 20px;
+  text-decoration: none;
   text-align: center;
 }
 
